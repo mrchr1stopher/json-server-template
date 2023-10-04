@@ -3,52 +3,142 @@
     {
       "id": 1,
       "english": "Dog",
-      "spanish": "Perro"
+      "spanish": "Perro",
+      "image": "http://yesofcorsa.com/wp-content/uploads/2017/09/Australian-Cattle-Dog-Photo1.jpg",
+      "category": "Animals"
     },
     {
       "id": 2,
       "english": "Cat",
-      "spanish": "Gato"
+      "spanish": "Gato",
+      "image": "https://www.publicdomainpictures.net/pictures/180000/velka/cat-1464103447LmK.jpg",
+      "category": "Animals"
     },
     {
       "id": 3,
-      "english": "House",
-      "spanish": "Casa"
+      "english": "Cow",
+      "spanish": "Vacca",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Cow_female_black_white.jpg",
+      "category": "Animals"
     },
     {
       "id": 4,
-      "english": "Tree",
-      "spanish": "Arbol"
+      "english": "Chicken",
+      "spanish": "Pollo",
+      "image": "https://www.typesofchicken.com/wp-content/uploads/2016/03/Impressing-the-hens.jpg",
+      "category": "Animals"
     },
     {
       "id": 5,
-      "english": "Car",
-      "spanish": "Coche"
+      "english": "Elephant",
+      "spanish": "Elefante",
+      "image": "https://coolwallpapers.me/picsup/3078947-animal_big_elephant_endangered_grass_herbivore_ivory_large_mammal_nature_outdoors_strong_trunk_wild_wild-animal_wildlife.jpg",
+      "category": "Animals"
     },
     {
       "id": 6,
-      "english": "Book",
-      "spanish": "Libro"
+      "english": "Shirt",
+      "spanish": "Camisa",
+      "image": "https://www.n22menswear.com/images/armani-exchange-cotton-oxford-blue-shirt-p11294-56511_medium.jpg",
+      "category": "Clothing"
     },
     {
       "id": 7,
-      "english": "Sun",
-      "spanish": "Sol"
+      "english": "Pants",
+      "spanish": "Pantalones",
+      "image": "https://oldnavy.gap.com/webcontent/0015/181/107/cn15181107.jpg",
+      "category": "Clothing"
     },
     {
       "id": 8,
-      "english": "Moon",
-      "spanish": "Luna"
+      "english": "Hat",
+      "spanish": "Sombrero",
+      "image": "https://pluspng.com/img-png/cowboy-hat-png-lady-hat-2533.png",
+      "category": "Clothing"
     },
     {
       "id": 9,
-      "english": "Water",
-      "spanish": "Agua"
+      "english": "Socks",
+      "spanish": "Calcetines",
+      "image": "https://ae01.alicdn.com/kf/HTB1NGJFaLQypeRjt_bXq6yZuXXaI/Men-Casual-Comfortable-Stripe-Design-Socks-Autumn-Winter-Popular-Style-One-Size-Soft-Warm-Fashion-Cotton.jpg",
+      "category": "Clothing"
     },
     {
       "id": 10,
-      "english": "Food",
-      "spanish": "Comida"
+      "english": "Shoes",
+      "spanish": "Zapatos",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91TszJheSnL.jpg",
+      "category": "Clothing"
+    },
+    {
+      "id": 11,
+      "english": "Book",
+      "spanish": "Libro",
+      "image": "https://thumbs.dreamstime.com/b/old-book-17580496.jpg",
+      "category": "Miscellaneous"
+    },
+    {
+      "id": 12,
+      "english": "Fork",
+      "spanish": "Tenedor",
+      "image": "https://www.goodfreephotos.com/albums/other-photos/fork-image.jpg",
+      "category": "Miscellaneous"
+    },
+    {
+      "id": 13,
+      "english": "Car",
+      "spanish": "Coche",
+      "image": "https://www.tnhonline.com/wp-content/uploads/2017/10/b0eqHZl-1-scaled.jpg",
+      "category": "Miscellaneous"
+    },
+    {
+      "id": 14,
+      "english": "Desk",
+      "spanish": "Escritorio",
+      "image": "https://images.custommade.com/zoj8hi6jEkOYO9cq32XiZo_VcGU=/custommade-photosets/09e838fdca4ab6d_20191215_112023.jpg",
+      "category": "Miscellaneous"
+    },
+    {
+      "id": 15,
+      "english": "Television",
+      "spanish": "Televisión",
+      "image": "https://images.samsung.com/is/image/samsung/my-uhd-ku6400-ua55ku6400kxxm-001-front-black?scl=1&fmt=png-alpha",
+      "category": "Miscellaneous"
+    },
+    {
+      "id": 16,
+      "english": "Pizza",
+      "spanish": "Pizza",
+      "image": "https://images7.alphacoders.com/596/596343.jpg",
+      "category": "Food"
+    },
+    {
+      "id": 17,
+      "english": "Burger",
+      "spanish": "Hamburguesa",
+      "image": "https://i0.wp.com/thenutritionadventure.com/wp-content/uploads/2017/07/PourHouseAmericanBurger.jpg?resize=5236%2C3490",
+      "category": "Food"
+    },
+    {
+      "id": 18,
+      "english": "Ice Cream",
+      "spanish": "Helado",
+      "image": "https://images.creativemarket.com/0.1.0/ps/6045694/1820/2627/m1/fpnw/wm1/twat89mzxirlupexvh3kubgkrs37otw59cy8lkuzfuyoh1ruo6grt99mwrvwujur-.jpg?1552352314&s=f3223957373aa673aaeb83a239daea60",
+      "category": "Food"
+    },
+    {
+      "id": 19,
+      "english": "Apple",
+      "spanish": "Manzana",
+      "image": "https://indianapublicmedia.org/stateimpact/files/2013/01/apple-image.jpg",
+      "category": "Food"
+    },
+    {
+      "id": 20,
+      "english": "Banana",
+      "spanish": "Plátano",
+      "image": "https://www.gannett-cdn.com/-mm-/cec01b6067e6a621611069b751341797d19f809f/c=0-218-4288-2630/local/-/media/2017/04/26/Brevard/B9327244777Z.1_20170426084937_000_GI3I4LULC.1-0.jpg?width=3200&height=1800&fit=crop&format=pjpg&auto=webp",
+      "category": "Food"
     }
   ]
 }
